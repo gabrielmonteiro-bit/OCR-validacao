@@ -1,0 +1,3 @@
+google-cloud-documentai>=2.20
+pymupdf>=1.24
+pillow>=10.0
